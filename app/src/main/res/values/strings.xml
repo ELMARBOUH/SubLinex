@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SubLinex</string>
+    <string name="Google_text_welcome">Welcome to SubLineX</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_in_with_google_using_firebase">Sign-In with Google </string>
+    <string name="sign_in">Sign In</string>
+    <string name="name_App">SubLineX</string>
+    <string name="App">Application</string>
+    <string name="Loading">Loading …</string>
 </resources>
