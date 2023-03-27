@@ -7,4 +7,19 @@
     <string name="name_App">SubLineX</string>
     <string name="App">Application</string>
     <string name="Loading">Loading …</string>
+    <string name="Name">Name</string>
+    <string name="prix">Prix</string>
+    <string name="date">Date</string>
+    <string name="Description">Description</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="years">Years</string>
+    <string name="slash_of_date">/</string>
+    <string-array name="Date">
+        <item>Date</item>
+        <item>Month</item>
+        <item>Years</item>
+    </string-array>
+
+
 </resources>
