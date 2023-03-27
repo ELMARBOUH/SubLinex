@@ -15,6 +15,12 @@
     <string name="month">Month</string>
     <string name="years">Years</string>
     <string name="slash_of_date">/</string>
+    <string name="txt_plus">+</string>
+    <string name="main_text_subscription">Subscription</string>
+    <string name="main_number_item">1000</string>
+    <string name="main_txt_prix">Prix</string>
+    <string name="main_prix">1000 $</string>
+    <string name="txt_search">search</string>
     <string-array name="Date">
         <item>Date</item>
         <item>Month</item>
