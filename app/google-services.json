@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786500233484",
+    "project_id": "sublinex-c44a3",
+    "storage_bucket": "sublinex-c44a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786500233484:android:df95e38c0771d104898129",
+        "android_client_info": {
+          "package_name": "com.example.sublinex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786500233484-35um54kicpan2p062hqbr5kq1er2abir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpaEjW7nngwnoNdu2wK-vjQjKlyUwpSiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786500233484-35um54kicpan2p062hqbr5kq1er2abir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

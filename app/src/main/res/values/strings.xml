@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SubLinex</string>
     <string name="Google_text_welcome">Welcome to SubLineX</string>
-    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_in_with_google" translatable="false">Sign In with Google</string>
     <string name="sign_in_with_google_using_firebase">Sign-In with Google </string>
     <string name="sign_in">Sign In</string>
     <string name="name_App">SubLineX</string>
@@ -21,6 +21,7 @@
     <string name="main_txt_prix">Prix</string>
     <string name="main_prix">1000 $</string>
     <string name="txt_search">search</string>
+    <string name="main_exit_Action_bar">Exit</string>
     <string-array name="Date">
         <item>Date</item>
         <item>Month</item>
