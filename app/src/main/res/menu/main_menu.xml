@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
     <item
         android:id="@+id/main_serch"
         app:showAsAction="always"
         app:actionViewClass="androidx.appcompat.widget.SearchView"
         android:title="@string/txt_search" />
+
+    <item
+
+        android:id="@+id/main_Exit"
+        app:showAsAction="ifRoom"
+        
+        android:title="@string/main_exit_Action_bar"
+        android:icon="@drawable/icon_exit"
+        />
+
+
+
+
 
 
 
